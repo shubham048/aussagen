@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "366718981034",
+    "firebase_url": "https://aussagen-13fff.firebaseio.com",
+    "project_id": "aussagen-13fff",
+    "storage_bucket": "aussagen-13fff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366718981034:android:b30ac579a99adc503bd1d3",
+        "android_client_info": {
+          "package_name": "com.example.android.aussagen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366718981034-igsgof8lvnj01mbfcoqvvkiha9a6hrrd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.aussagen",
+            "certificate_hash": "d35a823f81ca46a22742c8e2558bb75e3d0e72a8"
+          }
+        },
+        {
+          "client_id": "366718981034-1jrulqiv4alobksu2ph7g6ojdnu556k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHMOJrDkZ_7nkPb2zfXxSeEDbMcup5sBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366718981034-1jrulqiv4alobksu2ph7g6ojdnu556k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
